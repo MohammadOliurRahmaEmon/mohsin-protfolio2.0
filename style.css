@@ -1,0 +1,21 @@
+.about-text{
+    width: 400px;
+    margin-left: 100px;
+}
+.about-img{
+    
+    margin-left: 350px;
+    margin-top: 20px;
+    
+}
+.about-img img{
+    height: 450px;
+    
+}
+.About-container{
+    margin-bottom: 50px;
+}
+.uorder li{
+    list-style-type: square;
+
+}
